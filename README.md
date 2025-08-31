@@ -135,7 +135,7 @@ writing, that's Node v16.15.1
 
 ### Getting started
 
-Run the following command on your local environment:
+Run the following command on your local environment (for example, in [Warp](https://go.warp.dev/nextjs-bp)):
 
 ``` bash
 git clone --depth=1 https://github.com/ixartz/Astro-boilerplate
